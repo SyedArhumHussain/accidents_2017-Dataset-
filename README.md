@@ -1,7 +1,7 @@
 # accidents_2017-Dataset-
 This repository demonstrates a Logistic Regression model to predict accident-related outcomes using the accidents_2017.csv dataset. The analysis includes data preprocessing, model training, evaluation, and visualization.
 
-Project Overview
+Project Overview   :
 This project focuses on applying machine learning techniques, particularly logistic regression, to predict accident-related outcomes. The dataset includes various features such as district names, weekdays, months, hours, and victims. The following tasks are performed:
 
 Data Preprocessing: Preparing and transforming the data to make it suitable for model training. This includes handling categorical variables using techniques like label encoding and one-hot encoding.
